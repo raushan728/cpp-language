@@ -39,25 +39,23 @@ I have started learning C++ to build a strong foundation in programming and unde
 - A C++ compiler installed on your system  
   (e.g. **g++** for Linux/Windows via MinGW, or Visual Studio on Windows)
 
----
-
 ### 💻 Steps to Compile and Run
 
 #### ▶️ Using Command Line (Windows/Linux/Mac):
 1. Open terminal (or Command Prompt)
 2. Navigate to the directory where your `.cpp` file is located:
-   ```bash
+```bash
    cd path/to/your/file
-   ```
+   ```   
 3. Compile the C++ file using g++:
-   ```
+ ```
    g++ filename.cpp -o filename.exe
-   ```
+   ```  
 4. Run the executable:
-   ```
+ ```
    ./filename.exe   # for Linux/Mac
    filename.exe     # for Windows
-   ```
+   ```  
    
 ---
 
